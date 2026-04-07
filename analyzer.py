@@ -4,7 +4,7 @@ PhishGuard — Phishing URL Analyzer
 A lightweight CLI tool that analyzes URLs for phishing indicators.
 
 Author: Judy Ahmad
-GitHub: https://github.com/judyahmad
+GitHub: https://github.com/judyahmadd
 Website: https://judyahmad.com
 
 Usage:
