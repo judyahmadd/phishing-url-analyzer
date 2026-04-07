@@ -1,4 +1,4 @@
-# 🛡️ PhishGuard — Phishing URL Analyzer
+#  PhishGuard — Phishing URL Analyzer
 
 A lightweight command-line tool that analyzes URLs for phishing indicators using heuristic analysis. Unlike blocklist-based tools that only catch *known* threats, PhishGuard examines the **structural characteristics** of a URL to detect phishing attempts — even brand-new ones that haven't been reported yet.
 
@@ -131,4 +131,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## Author
 
 **Judy Ahmad** — Cybersecurity Professional  
-🌐 [judyahmad.com](https://judyahmad.com) · 🐙 [GitHub](https://github.com/judyahmad)
+ [judyahmad.com](https://judyahmad.com) ·   [GitHub](https://github.com/judyahmadd)
